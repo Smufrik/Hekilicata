@@ -1,0 +1,41 @@
+## Interface: 40400
+## Version: @project-version@
+## Title: Hekili
+## Author: Hekili
+## X-Flavor: Cataclysm
+## Notes: Priority helper for many DPS and tanking specializations, based on SimulationCraft action lists.
+## SavedVariables: HekiliDB
+## OptionalDeps: AddOnSkins, ButtonForge, ConsolePort, ElvUI, LibDualSpec-1.0, Masque, WeakAuras
+## X-Curse-Project-ID: 69254
+## X-WoWI-ID: 24608
+## X-Wago-ID: WYK9WXNL
+
+embeds.xml
+
+Hekili.lua
+Utils.lua
+Formatting.lua
+MultilineEditor.lua
+Constants.lua
+State.lua
+Events.lua
+
+Classes.lua
+
+Cataclysm\Classes.lua
+Cataclysm\DeathKnight.lua
+Cataclysm\Druid.lua
+Cataclysm\Hunter.lua
+Cataclysm\Mage.lua
+Cataclysm\Paladin.lua
+Cataclysm\Priest.lua
+Cataclysm\Rogue.lua
+Cataclysm\Shaman.lua
+Cataclysm\Warlock.lua
+Cataclysm\Warrior.lua
+
+Targets.lua
+Options.lua
+UI.lua
+Scripts.lua
+Core.lua
